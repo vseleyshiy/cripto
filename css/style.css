@@ -33,6 +33,9 @@ h6 {
 img {
     max-width: 100%;
 }
+.hero {
+    padding-bottom: 139px;
+}
 .container {
     max-width: 1202px;
     margin: 0 auto;
@@ -188,4 +191,84 @@ img {
     padding-top: 86px;
 }
 .decor__img {
+}
+
+.information {
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+.header-information {
+    display: flex;
+}
+.information__nav {
+}
+.information__nav-list {
+    display: flex;
+}
+.information__nav-item {
+    display: flex;
+    padding-right: 99px;
+}
+.information__nav-item:last-child {
+    padding-right: 0;
+}
+.information__img-icon-wrap {
+    padding-right: 24px;
+}
+.information__img-icon {
+}
+.information__information-icon {
+   
+}
+.information__title-icon {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 150%;
+    color: #FFFFFF;
+}
+.information__text-icon {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+    color: #E0E0E0;
+}
+.information__content {
+    display: flex;
+}
+.information__info {
+    margin-top: 176.97px;
+}
+.information__title {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 150%;
+    color: #FFFFFF;
+    margin-bottom: 23.99px;
+}
+.information__text {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+    color: #E0E0E0;
+    margin-bottom: 31.99px;
+}
+.btn {
+}
+.information__decor {
+    margin-top: 233.98px;
+}
+.information__img-wrap {
+    margin-right: 70px;
+}
+.information__img {
 }
